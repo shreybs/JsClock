@@ -1,3 +1,5 @@
 # JsClock
-Just a simple analogue clock.<br>
-<img src="https://imgur.com/a/8LDpTJR">
+
+Just a simple analogue clock.
+
+![screenshot](https://i.imgur.com/EKtMu9A.png)
